@@ -49,6 +49,7 @@ draft: false
 - [Loops for blackbelts](http://www.gigamonkeys.com/book/loop-for-black-belts.html)
 - [How the strengths of Lisp facilitate building complex and flexible applications](https://academic.oup.com/bib/article/19/3/537/2769437)
 - [Lisp / Jazz / Aikido](https://arxiv.org/abs/1804.00485)
+- [Not Lisp again!](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
 
 # Extreme programming
 
