@@ -22,6 +22,7 @@ draft: false
 - [Functional Programming](http://wiki.c2.com/?FunctionalProgramming)
 - [Immutable Objects and Garbage Collection](http://wiki.c2.com/?ImmutableObjectsAndGarbageCollection)
 - [Oaoo balances Yagni](http://wiki.c2.com/?OaooBalancesYagni)
+- [You Arent Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
 - [Deprecation Refactor](http://wiki.c2.com/?DeprecationRefactor)
 - [Code Deleting Party](http://wiki.c2.com/?CodeDeletingParty)
 - [Double Dispatch](http://wiki.c2.com/?DoubleDispatch)
@@ -47,6 +48,7 @@ draft: false
 - [Macros standard control constructs](http://www.gigamonkeys.com/book/macros-standard-control-constructs.html)
 - [Loops for blackbelts](http://www.gigamonkeys.com/book/loop-for-black-belts.html)
 - [How the strengths of Lisp facilitate building complex and flexible applications](https://academic.oup.com/bib/article/19/3/537/2769437)
+- [Lisp / Jazz / Aikido](https://arxiv.org/abs/1804.00485)
 
 # Extreme programming
 
@@ -66,6 +68,7 @@ eliminate dead-ends quickly and cheaply.
 - [What We Have Learned About Extreme Programming](http://www.extremeprogramming.org/lessons.html)
 - [When should Extreme Programming be Used?](http://www.extremeprogramming.org/when.html)
 - [How do I start this XP thing?](http://www.extremeprogramming.org/start.html)
+- [Extreme programming roadmap](http://wiki.c2.com/?ExtremeProgrammingRoadmap)
 
 # [Agile Modelling](http://www.agilemodeling.com/)
 
@@ -86,25 +89,12 @@ eliminate dead-ends quickly and cheaply.
 - [A Set of Unit Testing Rules - Michael Feathers](https://www.artima.com/weblogs/viewpost.jsp?thread=126923)
 - [3 Myths about Cucumber and Gherkin](https://pilot.co/blog/cucumber-and-gherkin-myths/)
 - [3 Misconceptions about BDD - Thoughtworks](https://www.thoughtworks.com/insights/blog/3-misconceptions-about-bdd)
-
-- The Curious Time Travelling Monad
-
-- Bulletproofs
-
-- (adjoint-io/bulletproofs)
-
-- concourse/concourse wiki / anti-patterns
-
-- Lisp / Jazz / Aikido
-
-- What is leadership capital?
-
+- [The Curious Time Travelling Reverse State Monad](https://tech-blog.capital-match.com/posts/5-the-reverse-state-monad.html)
+- [Bulletproofs / ADJoint-IO](https://github.com/adjoint-io/bulletproofs)
+- [Concourse/Concourse Wiki / Anti-Patterns](https://github.com/concourse/concourse/wiki/Anti-Patterns)
+- [What is leadership capital?](https://www.forbes.com/sites/joshbersin/2016/03/03/why-a-focus-on-teams-not-just-leaders-is-the-secret-to-business-performance/#78d76cfc24d5)
+- [Amazon Leadership Principles](https://www.amazon.jobs/principles)
 
 # More
 
 - Snapshot Testing
-
-
-http://wiki.c2.com/?ExtremeProgrammingRoadmap
-
-- [You Arent Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
