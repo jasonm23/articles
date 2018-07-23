@@ -94,4 +94,10 @@ eliminate dead-ends quickly and cheaply.
 - [Concourse/Concourse Wiki / Anti-Patterns](https://github.com/concourse/concourse/wiki/Anti-Patterns)
 - [What is leadership capital?](https://www.forbes.com/sites/joshbersin/2016/03/03/why-a-focus-on-teams-not-just-leaders-is-the-secret-to-business-performance/#78d76cfc24d5)
 - [Amazon Leadership Principles](https://www.amazon.jobs/principles)
+
+### Testing/QA
+
+- [xUnit patterns](http://xunitpatterns.com/)
 - [Snapshot Testing](https://sqa.stackexchange.com/questions/29696/what-is-snapshot-testing)
+- [Characterization Tests](https://en.wikipedia.org/wiki/Characterization_test)
+- [Developer Test](http://www.bradoncode.com/blog/2015/05/10/developer-testing/)
