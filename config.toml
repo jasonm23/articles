@@ -1,0 +1,4 @@
+baseURL = "http://ocodo.info/articles/"
+languageCode = "en-us"
+title = "Articles"
+theme = "hugo-natrium-theme"
